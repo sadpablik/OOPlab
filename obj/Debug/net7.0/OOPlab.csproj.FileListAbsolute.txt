@@ -1,0 +1,15 @@
+/Users/pavel/OOPlab/obj/Debug/net7.0/OOPlab.csproj.AssemblyReference.cache
+/Users/pavel/OOPlab/obj/Debug/net7.0/OOPlab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavel/OOPlab/obj/Debug/net7.0/OOPlab.AssemblyInfoInputs.cache
+/Users/pavel/OOPlab/obj/Debug/net7.0/OOPlab.AssemblyInfo.cs
+/Users/pavel/OOPlab/obj/Debug/net7.0/OOPlab.csproj.CoreCompileInputs.cache
+/Users/pavel/OOPlab/bin/Debug/net7.0/OOPlab
+/Users/pavel/OOPlab/bin/Debug/net7.0/OOPlab.deps.json
+/Users/pavel/OOPlab/bin/Debug/net7.0/OOPlab.runtimeconfig.json
+/Users/pavel/OOPlab/bin/Debug/net7.0/OOPlab.dll
+/Users/pavel/OOPlab/bin/Debug/net7.0/OOPlab.pdb
+/Users/pavel/OOPlab/obj/Debug/net7.0/OOPlab.dll
+/Users/pavel/OOPlab/obj/Debug/net7.0/refint/OOPlab.dll
+/Users/pavel/OOPlab/obj/Debug/net7.0/OOPlab.pdb
+/Users/pavel/OOPlab/obj/Debug/net7.0/OOPlab.genruntimeconfig.cache
+/Users/pavel/OOPlab/obj/Debug/net7.0/ref/OOPlab.dll
